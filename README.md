@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @niteskier
-- 👀 I’m interested in ...Red teaming/PenTestin
+- 👀 I’m interested in ...Red Teaming/PenTesting
 - 🌱 I’m currently learning ... entry level Pentesting.  Just graduated with a AAS degree.  Needing hands on experience.
-- 💞️ I’m looking to collaborate on ...perimeter recon analysis tools and subsequent findings and then reports of such data
+- 💞️ I’m looking to collaborate on ...perimeter recon analysis tools and subsequent findings and then reports of such data.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
